@@ -17,5 +17,6 @@ public class App {
         System.out.println("--------------------------------");
         System.out.println("Java Maven CI Build Successful!");
         System.out.println("Automatic Jenkins Build Testing!");
+        System.out.println("Webhook Testing Successful!");
     }
 }
